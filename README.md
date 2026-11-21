@@ -1,46 +1,45 @@
-# Estadisticaq — Segundo cuatrimestre de 2014
+# Estadística (Q)
 
-## Prácticas
+Segundo cuatrimestre de 2014 (Bienvenidos!!!)
 
-- [Calse 5](cp52014.pdf)
-- [Práctica 1](practica114.pdf)
-- [Practica 2](practica214.pdf)
-- [Practica 3](practica314.pdf)
-- [Practica 4](practica414.pdf)
-- [Practica 5](practica514.pdf)
-- [Practica 6](practica614.pdf)
-- [Practica 7](practica714.pdf)
-- [Practica 8](practica814.pdf)
+| Principal | Prácticas, clases y tablas | Apuntes y bibliografía | Inscripción y régimen de aprobación |
+| --- | --- | --- | --- |
 
-## Apuntes y notas
+\
 
-- [Clase 3](cp3v.a.%20discretas1.pdf)
-- [Clase 13](cp12Test2.pdf)
-- [Clase 2](cp22014.pdf)
-- [Clase 4](cp42014.pdf)
-- [Clase 6](cp62014.pdf)
-- [Problema a resolver (Enunciado)](cp72014-descriptiva-enunciado.pdf)
-- [Clase 7](cp72014.pdf)
-- [Clase 9](cp82014-IC.pdf)
-- [Clase 11 Intervalos de confianza asintóticos](cp102014-IC2.pdf)
-- [Clase 12](cp112014-Tests.pdf)
-- [Clase 14](cp132014-test3%2020-05-14.pdf)
-- [Clase 15](cp152014Test4.pdf)
-- [Clase 16](cp162014TestNoPara-Comandos.pdf)
-- [Clase 17](cp172014Tests%20con%20R.pdf)
-- [Clase 18](cp182014Anova1.pdf)
-- [Clase 19](cp192014ANOVA2.pdf)
-- [clase 20](cp202014regresion2.pdf)
-- [Clase 21](cp212014regresion2.pdf)
-- [Clase 22](cp222014regresion.pdf)
-- [Instructivo (Importante!!!)](Instructivo.pdf)
-- [Resumen de tests con R practica 6](resumentestsconr.pdf)
+#### Novedades
 
-## Otros materiales
+\
 
-- [Parcial para resolver en clase](parcial%20para%20clase.pdf)
-- [Segundo parcial para practicar](segundo%20parcial%20EQ%201c%202014%20v3.pdf)
+- **El** **Recuperatorio del 2do. Parcial** **se postergó al día martes 16 de Diciembre. Se tomará a las 10 hs. en aula del Instituto de Cálculo, 2do.Piso, Pabellón 2.**
+- **El Martes 16 de Diciembre en el aula del Instituto de Cálculo, 2do Piso Pabellón 2, se firmará la libreta universitaria de quienes hayan aprobado la materia. Deben tener la encuesta respondida, es condicion obligatoria.**
+- **Recuperatorio segundo parcial:** Jueves 11/12, aula 7 pab. II, hora: 9 a 13.
+- **Entrega de notas recuperatorio primer parcial:** Martes 9/12, instituto de cálculo pab. II, hora: 17 hs.
+- **Recuperatorio primer parcial:** Jueves 4/12, aula 7 pab. II, hora: 9 a 13.
+- **Entrega notas segundo parcial:** jueves 4/12 a las 12:00 en el aula 7. Ya pueden llenar las encuestas. De cualquier modo no habrá firma de libretas mañana porque firma la profesora.
+- **Segundo parcial: jueves 27/11, aula 7 pab. II (la de siempre), hora: de 9 a 13.** Si se llegan a retrasar por el paro de colectivos que probablemente dure hasta las 7:00 A.M. extenderemos el horario para dichas personas. Pero intenten llegar a las 9:00. **Recuerden que se pueden tener hasta 2 hojas A4 escritas a mano como ayuda memoria**.
+- **En el siguiente link encontrarán un [Parcial para practicar](segundo parcial EQ 1c 2014 v3.pdf)**
+- **En los siguientes links se encuentran las clases completas de ANOVA y Regresión, tanto lo expuesto en el pizarrón como los slides dados en clase: ANOVA y REGRESION**
+- **Clase martes 28/10, a las 9:30 en el laboratorio Turing del Departamento de computación (pabellón uno)**
+- **Clase de Métodos No Paramétricos  + Cuadro de Resumen de Tests:  Aqui**
+- **Martes 30/9: a las 9:00 primer parcial. Aula 7 (la de siempre) pabellón 2**
+- **Lunes 29/9: De 15:30 a 17:00 clase de consulta en el Instituto de Cálculo oficina 6, segundo piso pabellón 2 (esquina que da hacia el bar de deportes)**
+- **Pueden encontrar un parcial viejo para practicar en** http://cms.dm.uba.ar/academico/materias/2docuat2014/estadisticaQ/folder.2014-04-01.4096838259/
+- Será condición necesaria para poder aprobar la materia tener a lo sumo 10 faltas injustificadas en el cuatrimestre.
+- Para poder cursar la materia es requisito tener aprobados los trabajos prácticos de Análisis Matemático I.
+- Aquel estudiante que le pueda llegar a coincidir o le quede a menos de 24 horas una fecha de examen de esta materia con alguna otra de otra materia que esté cursando, deberá avisarlo durante el primer mes de cursada.
+- Para instalar el software R visitar la siguiente [página](http://cran.rstudio.com/)\
 
-## Página original
+#### Docentes y horarios
 
-[Página de la cursada en el CMS](https://cms.dm.uba.ar/academico/materias/2docuat2014/estadisticaQ)
+- |  |  |  |  |
+  | --- | --- | --- | --- |
+  | Teórico-práctico | Ma-Ju: 9:30 a 12:30 | [Ana Bianco](mailto:abianco@dm.uba.ar)  [Agustín Alvarez](mailto:agustinalvarez01@gmail.com)  [Yamila Barrera](mailto:yamilambarrera@gmail.com) | Aula: 7 Pabellón II |
+
+#### Fechas de parciales y recuperatorios
+
+- Primer parcial: Martes 30 de septiembre:  de 9 a 13 hs, aula a confirmar.
+- Segundo parcial: Jueves 27 de noviembre: de 9 a 13 hs, aula a confirmar.
+- Recuperatorio del primer parcial: Jueves 4 de diciembre, de 9 a 13 hs, aula a confirmar.
+- Recuperatorio del segundo parcial: Jueves 11 de diciembre, de 9 a 13 hs, aula a confirmar.
+- Examen evaluador: Martes 16 de diciembre, de 9 a 13 hs, aula a confirmar.
